@@ -18,6 +18,5 @@ Welcome to my personal portfolio! This website showcases my work, skills, and ac
 
 ## Live Website
 
-You can view my live portfolio website here at (https://yourgithubusername.github.io/yourrepositoryname).](https://javaria-shabbir24.github.io/PortfolioWebsite/)
-
+You can view my live portfolio website here at https://javaria-shabbir24.github.io/PortfolioWebsite/ 
 Feel free to explore and connect with me!
