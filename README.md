@@ -5,8 +5,11 @@ Welcome to my personal portfolio! This website showcases my work, skills, and ac
 ## Features
 
 - **Responsive Design:** The portfolio is designed to work seamlessly across various devices and screen sizes.
+
 - **GitHub Profile Link:** Access detailed information about all my projects and their histories through my github link.
+
 - **LinkedIn Profile Link:** Find comprehensive details about my awards, volunteer work, and skills on my linkedin.
+
 - **Contact Information:** The website contains contact information section.
 - **Social Links:** Social links are added.
 
